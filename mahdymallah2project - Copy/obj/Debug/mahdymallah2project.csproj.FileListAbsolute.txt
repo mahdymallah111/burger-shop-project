@@ -1,0 +1,32 @@
+C:\Users\Administrator\source\repos\mahdymallah2project\bin\Debug\mahdymallah2project.exe.config
+C:\Users\Administrator\source\repos\mahdymallah2project\bin\Debug\mahdymallah2project.exe
+C:\Users\Administrator\source\repos\mahdymallah2project\bin\Debug\mahdymallah2project.pdb
+C:\Users\Administrator\source\repos\mahdymallah2project\obj\Debug\mahdymallah2project.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\mahdymallah2project\obj\Debug\mahdymallah2project.MainForm.resources
+C:\Users\Administrator\source\repos\mahdymallah2project\obj\Debug\mahdymallah2project.Properties.Resources.resources
+C:\Users\Administrator\source\repos\mahdymallah2project\obj\Debug\mahdymallah2project.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\mahdymallah2project\obj\Debug\mahdymallah2project.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\mahdymallah2project\obj\Debug\mahdymallah2project.exe
+C:\Users\Administrator\source\repos\mahdymallah2project\obj\Debug\mahdymallah2project.pdb
+C:\Users\Administrator\source\repos\mahdymallah2project\obj\Debug\mahdymallah2project.CustomerDetailsForm.resources
+C:\Users\Administrator\source\repos\mahdymallah2project\obj\Debug\mahdymallah2project.OrdersForm.resources
+C:\Users\Administrator\source\repos\mahdymallah2project\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\source\repos\mahdymallah2project\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Administrator\source\repos\mahdymallah2project\obj\Debug\mahdymal.F2D68CA8.Up2Date
+C:\Users\Administrator\source\repos\mahdymallah2project\obj\Debug\mahdymallah2project.exe.config
+C:\Users\Administrator\source\repos\mahdymallah2project - Copy\bin\Debug\mahdymallah2project.exe.config
+C:\Users\Administrator\source\repos\mahdymallah2project - Copy\bin\Debug\mahdymallah2project.exe
+C:\Users\Administrator\source\repos\mahdymallah2project - Copy\bin\Debug\mahdymallah2project.pdb
+C:\Users\Administrator\source\repos\mahdymallah2project - Copy\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\source\repos\mahdymallah2project - Copy\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Administrator\source\repos\mahdymallah2project - Copy\obj\Debug\mahdymallah2project.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\mahdymallah2project - Copy\obj\Debug\mahdymallah2project.exe.config
+C:\Users\Administrator\source\repos\mahdymallah2project - Copy\obj\Debug\mahdymallah2project.CustomerDetailsForm.resources
+C:\Users\Administrator\source\repos\mahdymallah2project - Copy\obj\Debug\mahdymallah2project.MainForm.resources
+C:\Users\Administrator\source\repos\mahdymallah2project - Copy\obj\Debug\mahdymallah2project.OrdersForm.resources
+C:\Users\Administrator\source\repos\mahdymallah2project - Copy\obj\Debug\mahdymallah2project.Properties.Resources.resources
+C:\Users\Administrator\source\repos\mahdymallah2project - Copy\obj\Debug\mahdymallah2project.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\mahdymallah2project - Copy\obj\Debug\mahdymallah2project.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\mahdymallah2project - Copy\obj\Debug\mahdymal.F2D68CA8.Up2Date
+C:\Users\Administrator\source\repos\mahdymallah2project - Copy\obj\Debug\mahdymallah2project.exe
+C:\Users\Administrator\source\repos\mahdymallah2project - Copy\obj\Debug\mahdymallah2project.pdb
